@@ -1,4 +1,0 @@
-C:\Users\dell\source\repos\BlobAppDemo\BlobAppDemo\bin\Debug\netcoreapp3.1\BlobAppDemo.exe
-C:\Users\dell\source\repos\BlobAppDemo\BlobAppDemo\obj\Debug\netcoreapp3.1\BlobAppDemo.csprojAssemblyReference.cache
-C:\Users\dell\source\repos\BlobAppDemo\BlobAppDemo\obj\Debug\netcoreapp3.1\BlobAppDemo.AssemblyInfoInputs.cache
-C:\Users\dell\source\repos\BlobAppDemo\BlobAppDemo\obj\Debug\netcoreapp3.1\BlobAppDemo.AssemblyInfo.cs
