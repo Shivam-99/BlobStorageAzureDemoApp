@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "rZIEkkdR6swpqFOnaIcUhz6RQB6IhSiW+0IlikWM9aHzaaJYbeOClATBhPVc+h1WxMviZ+v1deWZ6NHv83IcAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\source\\repos\\BlobAppDemo\\BlobAppDemo\\BlobAppDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\azure.core\\1.2.0\\azure.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\azure.storage.blobs\\12.4.1\\azure.storage.blobs.12.4.1.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\azure.storage.common\\12.4.0\\azure.storage.common.12.4.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
